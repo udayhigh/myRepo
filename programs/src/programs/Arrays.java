@@ -9,6 +9,7 @@ public class Arrays {
 		a[0]=5;
 		a[1]= 2;
 		a[2]= 5;
+		System.out.println("Hi Uday");
 		
 		a[3] = 10;
 		
